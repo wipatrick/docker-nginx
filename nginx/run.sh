@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # sed -i -e "s/%restapihost%/$RESTAPI_PORT_8080_TCP_ADDR/g" /etc/nginx/nginx.conf
 # sed -i -e "s/%restapiport%/$RESTAPI_PORT_8080_TCP_PORT/g" /etc/nginx/nginx.conf

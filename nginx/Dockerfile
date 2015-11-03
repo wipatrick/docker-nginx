@@ -17,4 +17,4 @@ RUN echo "daemon off;" >> /etc/nginx/nginx.conf
 
 EXPOSE 80 443
 
-CMD ["/bin/bash","/etc/nginx/run.sh"]
+CMD ["/bin/sh", "-c", "/etc/nginx/run.sh"]
