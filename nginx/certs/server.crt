@@ -1,0 +1,99 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=DE, ST=BW, L=Karlsruhe, O=Disy Informationssysteme GmbH, OU=IT, CN=Disy Informationssysteme GmbH CA/name=EasyRSA/emailAddress=it@disy.net
+        Validity
+            Not Before: Sep  5 23:32:20 2015 GMT
+            Not After : Sep  2 23:32:20 2025 GMT
+        Subject: C=DE, ST=BW, L=Karlsruhe, O=Disy Informationssysteme GmbH, OU=IT, CN=biggis1.env.disy.net/name=EasyRSA/emailAddress=it@disy.net
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:c3:38:e8:31:83:02:38:fe:f2:74:71:0f:bc:44:
+                    8e:e5:1d:65:3f:26:5c:18:2e:3e:eb:52:7f:22:6a:
+                    c9:c9:3c:aa:9c:80:dc:87:52:26:f9:c3:bb:07:68:
+                    fd:22:b8:c1:d6:0f:4f:0d:29:87:96:01:8c:fd:c1:
+                    b0:b4:99:82:5a:37:82:c5:da:44:0e:55:03:7e:3b:
+                    7b:b3:4d:23:85:fc:c6:60:33:d5:86:b6:4c:62:06:
+                    55:a7:65:c5:29:0f:99:eb:a0:45:8d:58:7b:2f:27:
+                    38:c4:68:96:69:33:2e:af:a9:ef:87:b9:ae:22:07:
+                    a3:d1:ab:d3:c7:f4:01:54:a2:e5:48:5f:a3:a5:80:
+                    c6:26:e5:ca:1f:8e:77:0e:3b:8f:69:45:12:f2:d8:
+                    70:ca:b4:08:08:e5:9e:70:d0:d3:d1:29:f7:18:86:
+                    15:db:fc:a2:33:c6:99:70:81:87:ef:66:07:9a:ba:
+                    36:16:85:5a:c9:03:28:13:3b:2c:54:d7:1e:48:2d:
+                    9c:08:56:b7:8c:5a:50:18:99:8c:ef:46:db:18:9d:
+                    05:62:95:a5:43:a2:20:a7:a0:72:2e:af:d7:c0:30:
+                    c6:9a:50:fd:b5:e0:31:fa:dd:72:22:34:af:e2:88:
+                    26:e0:aa:74:17:a1:11:26:42:32:6d:e8:d2:22:72:
+                    1c:73
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Cert Type: 
+                SSL Server
+            Netscape Comment: 
+                Easy-RSA Generated Server Certificate
+            X509v3 Subject Key Identifier: 
+                06:F8:3E:D3:06:52:4A:F3:C0:58:FA:E8:02:83:78:76:7B:3C:0C:E1
+            X509v3 Authority Key Identifier: 
+                keyid:16:14:D8:7B:23:13:7E:B1:95:AB:24:A1:B5:39:DF:E5:01:03:14:46
+                DirName:/C=DE/ST=BW/L=Karlsruhe/O=Disy Informationssysteme GmbH/OU=IT/CN=Disy Informationssysteme GmbH CA/name=EasyRSA/emailAddress=it@disy.net
+                serial:F6:05:00:4E:40:B4:BA:59
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+    Signature Algorithm: sha256WithRSAEncryption
+         98:dc:11:8c:87:3a:81:85:ff:8d:7e:03:dc:19:8a:da:d7:51:
+         eb:2f:35:f5:4b:87:37:16:42:f9:1c:bc:28:61:33:70:35:47:
+         79:a1:c7:94:6c:ac:18:c8:ff:8f:98:ca:e3:a3:e7:3d:a6:37:
+         1e:7c:fd:9d:a5:f5:a2:bb:c0:2f:4e:ed:f1:22:79:fb:c7:21:
+         58:a3:9d:0f:71:41:4b:1f:b1:76:fe:23:57:86:de:59:13:87:
+         c6:1a:ed:2a:cc:93:ae:fc:c2:30:c5:72:de:0d:8e:62:85:27:
+         fc:95:37:af:d7:f0:b3:55:aa:33:c7:ec:dd:59:51:0a:d5:41:
+         3d:48:92:12:9b:2a:a3:e7:96:f1:27:0d:04:16:83:26:35:51:
+         a1:bd:43:5f:12:71:75:cf:dd:14:48:24:ab:0c:0b:30:51:5f:
+         d5:a1:27:93:1b:4c:aa:fe:1d:f6:b5:65:ad:15:f9:b5:96:38:
+         7d:37:68:62:11:b3:7d:07:6a:93:49:19:fb:a3:1a:e8:86:9d:
+         6f:24:45:2b:3a:5a:2b:90:71:ca:30:8d:98:81:27:88:86:c6:
+         ab:fb:45:9c:f0:ca:65:df:d3:a5:b8:cf:e6:47:b5:f2:19:35:
+         4b:ad:eb:51:4b:e9:89:b5:e1:d5:c6:fe:24:61:6a:6e:86:bc:
+         0e:16:f7:3d
+-----BEGIN CERTIFICATE-----
+MIIFeDCCBGCgAwIBAgIBATANBgkqhkiG9w0BAQsFADCBvDELMAkGA1UEBhMCREUx
+CzAJBgNVBAgTAkJXMRIwEAYDVQQHEwlLYXJsc3J1aGUxJjAkBgNVBAoTHURpc3kg
+SW5mb3JtYXRpb25zc3lzdGVtZSBHbWJIMQswCQYDVQQLEwJJVDEpMCcGA1UEAxMg
+RGlzeSBJbmZvcm1hdGlvbnNzeXN0ZW1lIEdtYkggQ0ExEDAOBgNVBCkTB0Vhc3lS
+U0ExGjAYBgkqhkiG9w0BCQEWC2l0QGRpc3kubmV0MB4XDTE1MDkwNTIzMzIyMFoX
+DTI1MDkwMjIzMzIyMFowgbAxCzAJBgNVBAYTAkRFMQswCQYDVQQIEwJCVzESMBAG
+A1UEBxMJS2FybHNydWhlMSYwJAYDVQQKEx1EaXN5IEluZm9ybWF0aW9uc3N5c3Rl
+bWUgR21iSDELMAkGA1UECxMCSVQxHTAbBgNVBAMTFGJpZ2dpczEuZW52LmRpc3ku
+bmV0MRAwDgYDVQQpEwdFYXN5UlNBMRowGAYJKoZIhvcNAQkBFgtpdEBkaXN5Lm5l
+dDCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBAMM46DGDAjj+8nRxD7xE
+juUdZT8mXBguPutSfyJqyck8qpyA3IdSJvnDuwdo/SK4wdYPTw0ph5YBjP3BsLSZ
+glo3gsXaRA5VA347e7NNI4X8xmAz1Ya2TGIGVadlxSkPmeugRY1Yey8nOMRolmkz
+Lq+p74e5riIHo9Gr08f0AVSi5Uhfo6WAxiblyh+Odw47j2lFEvLYcMq0CAjlnnDQ
+09Ep9xiGFdv8ojPGmXCBh+9mB5q6NhaFWskDKBM7LFTXHkgtnAhWt4xaUBiZjO9G
+2xidBWKVpUOiIKegci6v18AwxppQ/bXgMfrdciI0r+KIJuCqdBehESZCMm3o0iJy
+HHMCAwEAAaOCAY0wggGJMAkGA1UdEwQCMAAwEQYJYIZIAYb4QgEBBAQDAgZAMDQG
+CWCGSAGG+EIBDQQnFiVFYXN5LVJTQSBHZW5lcmF0ZWQgU2VydmVyIENlcnRpZmlj
+YXRlMB0GA1UdDgQWBBQG+D7TBlJK88BY+ugCg3h2ezwM4TCB8QYDVR0jBIHpMIHm
+gBQWFNh7IxN+sZWrJKG1Od/lAQMURqGBwqSBvzCBvDELMAkGA1UEBhMCREUxCzAJ
+BgNVBAgTAkJXMRIwEAYDVQQHEwlLYXJsc3J1aGUxJjAkBgNVBAoTHURpc3kgSW5m
+b3JtYXRpb25zc3lzdGVtZSBHbWJIMQswCQYDVQQLEwJJVDEpMCcGA1UEAxMgRGlz
+eSBJbmZvcm1hdGlvbnNzeXN0ZW1lIEdtYkggQ0ExEDAOBgNVBCkTB0Vhc3lSU0Ex
+GjAYBgkqhkiG9w0BCQEWC2l0QGRpc3kubmV0ggkA9gUATkC0ulkwEwYDVR0lBAww
+CgYIKwYBBQUHAwEwCwYDVR0PBAQDAgWgMA0GCSqGSIb3DQEBCwUAA4IBAQCY3BGM
+hzqBhf+NfgPcGYra11HrLzX1S4c3FkL5HLwoYTNwNUd5oceUbKwYyP+PmMrjo+c9
+pjcefP2dpfWiu8AvTu3xInn7xyFYo50PcUFLH7F2/iNXht5ZE4fGGu0qzJOu/MIw
+xXLeDY5ihSf8lTev1/CzVaozx+zdWVEK1UE9SJISmyqj55bxJw0EFoMmNVGhvUNf
+EnF1z90USCSrDAswUV/VoSeTG0yq/h32tWWtFfm1ljh9N2hiEbN9B2qTSRn7oxro
+hp1vJEUrOlorkHHKMI2YgSeIhsar+0Wc8Mpl39OluM/mR7XyGTVLretRS+mJteHV
+xv4kYWpuhrwOFvc9
+-----END CERTIFICATE-----
