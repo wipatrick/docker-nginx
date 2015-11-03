@@ -15,8 +15,6 @@ ADD run.sh /etc/nginx/run.sh
 
 RUN echo "daemon off;" >> /etc/nginx/nginx.conf
 
-WORKDIR /etc/nginx
-
 EXPOSE 80 443
 
-CMD ["run.sh"]
+CMD ["/bin/bash","/etc/nginx/run.sh"]
