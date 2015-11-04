@@ -1,8 +1,8 @@
 rstudio:
-  build: ./rstudio
+  image: rocker/rstudio
   environment:
-    PASSWORDFZI: "fzi@biggis"
-    PASSWORDKONSTANZ: "konstanz@biggis"
+    USER: "testuser"
+    PASSWORD: "testpassword"
 zookeeper:
   image: wurstmeister/zookeeper
   ports:
