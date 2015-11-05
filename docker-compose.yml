@@ -44,3 +44,6 @@ nginx:
   volumes:
     - ./nginx/conf/nginx.conf:/etc/nginx/nginx.conf
     - ./nginx/conf/proxy_conf:/etc/nginx/conf.d/proxy_conf
+    - ./nginx/certs/dockervm.crt:/etc/nginx/certs/dockervm.crt
+    - ./nginx/certs/dockervm.key:/etc/nginx/certs/dockervm.key
+    - ./nginx/auth/.htpasswd:/etc/nginx/.htpasswd
