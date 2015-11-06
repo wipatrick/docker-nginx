@@ -2,15 +2,15 @@
 Dockerized NGiNX Reverse Proxy in front of RStudio and Apache Storm.
 
 ## Prerequisites
-** Add certs/key **
+**Add certs/key**
 Add your cert and key to nginx/certs/.
 
-** Add .htpasswd **
+**Add .htpasswd**
 The basic authentification uses the following credentials by default:
 * user: dummy
 * pw: password
 
-** Edit nginx.conf **
+**Edit nginx.conf**
 Update to the IP/domain name of your server.
 
 ## Credits
