@@ -14,4 +14,4 @@ The basic authentification uses the following credentials by default:
 Update to the IP/domain name of your server.
 
 ## Credits
-Credits belong to [wurstmeister](https://github.com/wurstmeister/storm-docker) and [rocker](https://github.com/rocker-org/rocker) for their work on Apache Storm and RStudio.
+Credits belong to [wurstmeister](https://github.com/wurstmeister/storm-docker) and [nginx](https://github.com/nginxinc/docker-nginx) for their work on Apache Storm and NGiNX.
