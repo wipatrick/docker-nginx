@@ -1,5 +1,5 @@
 ## docker-nginx
-Dockerized NGiNX Reverse Proxy in front of RStudio and Apache Storm.
+Dockerized NGiNX Reverse Proxy in front of Apache Storm.
 
 ## Prerequisites
 **Add certs/key**
